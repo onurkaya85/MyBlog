@@ -1,0 +1,1 @@
+﻿For new Icons => https://fontawesome.com/icons?d=gallery&p=2&s=solid&m=free
